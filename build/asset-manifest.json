@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sora-o-tobu/tomasulo-simulator/static/css/main.0512c44b.css",
+    "main.js": "/Sora-o-tobu/tomasulo-simulator/static/js/main.c70cb6a3.js",
+    "index.html": "/Sora-o-tobu/tomasulo-simulator/index.html",
+    "main.0512c44b.css.map": "/Sora-o-tobu/tomasulo-simulator/static/css/main.0512c44b.css.map",
+    "main.c70cb6a3.js.map": "/Sora-o-tobu/tomasulo-simulator/static/js/main.c70cb6a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0512c44b.css",
+    "static/js/main.c70cb6a3.js"
+  ]
+}
